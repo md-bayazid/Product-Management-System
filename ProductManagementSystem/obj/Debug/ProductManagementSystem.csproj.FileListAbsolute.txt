@@ -1,0 +1,6 @@
+H:\Program related\C#\ProductManagementSystem\ProductManagementSystem\bin\Debug\ProductManagementSystem.exe.config
+H:\Program related\C#\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.csprojResolveAssemblyReference.cache
+H:\Program related\C#\ProductManagementSystem\ProductManagementSystem\bin\Debug\ProductManagementSystem.exe
+H:\Program related\C#\ProductManagementSystem\ProductManagementSystem\bin\Debug\ProductManagementSystem.pdb
+H:\Program related\C#\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.exe
+H:\Program related\C#\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.pdb
